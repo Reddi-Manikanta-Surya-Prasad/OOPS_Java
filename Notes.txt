@@ -38,7 +38,8 @@ Obejcts has 2 things:
 1. Propoerties or states
 2. behaviour or Function
 
-Example Dog is an Object because it has 
+Example:
+Dog is an Object because it has 
 Properties like Age, Breed, Color etc.
 Behaviours like Bark, Sleep, Eat etc.
 
