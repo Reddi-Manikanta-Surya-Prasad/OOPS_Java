@@ -33,3 +33,7 @@ OOPS:
 5. Code reusability is present.
 Examples: Java, C++, Python, C# etc.
 
+Obejcts and Classes
+Obejcts has 2 things:
+1. Propoerties or states
+2. behaviour or Function
