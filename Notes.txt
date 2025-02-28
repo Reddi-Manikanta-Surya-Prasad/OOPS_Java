@@ -46,3 +46,21 @@ Behaviours like Bark, Sleep, Eat etc.
 Car is an Object becuase it has 
 Properties like Color, Type, Brand, Weight etc.
 Behavious like Apply Brakes, Drive Increase speed etc.
+
+To create an Object, a Class is required
+so, Class provides the template or blueprint from which object can be created.
+From one class we can create multiple Objects
+To create a Class, we will use a keyword class
+creating a class named as student
+class Student{
+  String name,
+  int age,
+  String address
+}
+Functionality or Data Method
+updateAddress(){
+
+}
+
+Creating Objects
+student EngStudent = new Student();
