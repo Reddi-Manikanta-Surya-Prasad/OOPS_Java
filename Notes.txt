@@ -64,3 +64,13 @@ updateAddress(){
 
 Creating Objects
 student EngStudent = new Student();
+
+1st Pillar of OOPS - Data Abstraction 
+It hides the internal implementation and only shows essential functionality to the user.
+It can be achieved through Interface and Abstract classes.
+Example:
+Car - in car we can only see the break pedal, if we press that pedal then the speed of the car will be decreases.
+Cellphone - how call is made that is Abstracted to us.
+
+Advantages of Abstraction
+Increase security and confidentiality.
